@@ -25,4 +25,4 @@ I5 is found using Slew Rate <br>
 (W/L) ratio of M6 is found from location of zero<br>
 
 # Technology Used
-LTSpice (tsmc018.lib)
+LTspice (tsmc018.lib)
